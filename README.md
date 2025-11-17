@@ -14,6 +14,8 @@ não tenho a intenção de ganhar créditos por trabalho alheio.
 # LINKS
 alguns links são para referenciar imagens outros com informações imporantes
 
+[EveryMac identificador de modelo](https://everymac.com/ultimate-mac-lookup/)
+
 [NVMe SSD Upgrade Guide for an Early 2015 MacBook Pro](https://grh.am/2018/nvme-ssd-upgrade-guide-for-an-early-2015-macbook-pro/)
 
 [Upgrading 2013-2015 Macbook Pro SSD to M.2 NVMe](https://forums.macrumors.com/threads/upgrading-2013-2015-macbook-pro-ssd-to-m-2-nvme.2034976/)
