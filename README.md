@@ -18,7 +18,9 @@ alguns links são para referenciar imagens outros com informações imporantes
 
 [Mac SSD adapters - hopefully comprehensive view](https://forums.macrumors.com/threads/mac-ssd-adapters-hopefully-comprehensive-view.2328282/)
 
-[possivel fonte para imagens de referencia,loja](https://www.soarland.com/Macbook_SSD_Adapter-catalog-62.html)
+[possivel fonte para imagens de referencia,loja1](https://www.soarland.com/Macbook_SSD_Adapter-catalog-62.html)
+
+[possivel fonte para imagens de referencia,loja2](https://www.microsatacables.com/drive-adapters-and-drive-converters/apple-ssd-adapter)
 
 [NVMe SSD Upgrade Guide for an Early 2015 MacBook Pro](https://grh.am/2018/nvme-ssd-upgrade-guide-for-an-early-2015-macbook-pro/)
 
