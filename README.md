@@ -12,6 +12,13 @@ caso haja alguma referencia ausente/errada por favor entre em contato e eu corri
 não tenho a intenção de ganhar créditos por trabalho alheio.
 
 # LINKS
+alguns links são para referenciar imagens outros com informações imporantes
+
+[NVMe SSD Upgrade Guide for an Early 2015 MacBook Pro](https://grh.am/2018/nvme-ssd-upgrade-guide-for-an-early-2015-macbook-pro/)
+
 [Upgrading 2013-2015 Macbook Pro SSD to M.2 NVMe](https://forums.macrumors.com/threads/upgrading-2013-2015-macbook-pro-ssd-to-m-2-nvme.2034976/)
 
 [The Ultimate Guide to Apple’s Proprietary SSDs](https://beetstech.com/blog/apple-proprietary-ssd-ultimate-guide-to-specs-and-upgrades)
+
+[PCIe SSDs - NVMe & AHCI](https://forums.macrumors.com/threads/pcie-ssds-nvme-ahci.2146725/)
+
