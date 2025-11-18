@@ -32,3 +32,4 @@ alguns links são para referenciar imagens outros com informações imporantes
 
 [SSD Apple, lista de adaptadores e conectores](https://logi.wiki/index.php/Apple_SSD_connectors_and_adapters_list)
 
+[Planilha com todos os SSDs compativeis](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit?gid=0#gid=0)
