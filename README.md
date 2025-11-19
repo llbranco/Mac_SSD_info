@@ -11,6 +11,34 @@ farei o maximo possivel para dar créditos, postar fontes e referencias
 caso haja alguma referencia ausente/errada por favor entre em contato e eu corrijo o quanto antes,
 não tenho a intenção de ganhar créditos por trabalho alheio.
 
+
+## Obter numero de série de Discos
+
+### SATA
+
+```system_profiler SPSerialATADataType -detailLevel medium | awk '/Serial/ {print $NF}'```
+
+### SATA (alternativo)
+
+```ioreg -rd1 -w0 -c AppleAHCIDiskDriver | grep Serial```
+
+### NVMe
+
+```ioreg -rd1 -w0 -c IONVMeBlockStorageDevice | grep "Device Characteristics"```
+
+### outros dispositivos
+Internal drives: IOAHCIBlockStorageDevice string property "Serial Number" inside "Device Characteristics" e.g.: (WD-WCAV5D1345345)
+
+USB drives : IOUSBDevice string property "USB Serial Number" e.g.: (5743415654564561373734)
+
+FireWire drives : IOReducedBlockServices number property "GUID" inside "Protocol Characteristics" e.g.: (407345709348650)
+
+[fonte](https://stackoverflow.com/questions/2019244/how-to-get-serial-number-from-mac-hard-disks)
+
+### Número de série do Mac
+
+```ioreg -l | grep IOPlatformSerialNumber```
+
 # LINKS
 alguns links são para referenciar imagens outros com informações imporantes
 
